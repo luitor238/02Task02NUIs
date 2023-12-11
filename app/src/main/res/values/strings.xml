@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">02. [Task 02] NUIs</string>
+    <string name="Speak">Pulsa para hablar</string>
+    <string name="Text">Pulsando el siguiente boton creara un texto con lo que diga en voz alta.</string>
+    <string name="Resultado">Este es tu texto:</string>
+</resources>
